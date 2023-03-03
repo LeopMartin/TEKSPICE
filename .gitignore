@@ -1,0 +1,7 @@
+.vscode
+a.out
+*.dSYM
+doc
+nanotekspice
+*.nts
+.DS_Store
